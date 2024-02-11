@@ -1,0 +1,12 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.85.0/windows_amd64/terraform-provider-azurerm_v3.85.0_x5.exe
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+**/.terraform/*
+
+*.tfvars
+*.tfvars.json
